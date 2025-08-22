@@ -50,19 +50,6 @@ Statistical summaries (DuckDB-based).
 ├── requirements.txt                                  # Dependencies
 └── README.md                                         # Project documentation
 
-⚙️ Installation
-
-Clone this repo
-
-git clone https://github.com/yourusername/pyfortracc-enhanced.git
-cd pyfortracc-enhanced
-
-
-Install dependencies
-
-pip install -r requirements.txt
-
-
 Run Jupyter Notebook / Colab
 Open the main notebook:
 
